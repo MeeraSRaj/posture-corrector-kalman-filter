@@ -77,7 +77,7 @@ Both the naive-threshold baseline and the Kalman+CUSUM pipeline are run on ident
 
 ## Project status
 
-Early planning stage — sensing pipeline and estimation layer being scaffolded.
+The files can locate the neck, shoulders, ears and hips. It is also calculating the neck and torso angles.
 
 ## Roadmap
 
